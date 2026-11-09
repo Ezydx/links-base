@@ -1,0 +1,9 @@
+{
+  "name": "links-base",
+  "version": "1.0.0",
+  "description": "Personal Bookmarks & Web Hub",
+  "scripts": {
+    "start": "node serve.js",
+    "serve": "node serve.js"
+  }
+}
